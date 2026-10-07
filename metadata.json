@@ -1,0 +1,6 @@
+{
+  "name": "Star Fish — Luxury Seafood Restaurant",
+  "description": "Experience refined ocean gastronomy at Star Fish. Modern seafood dining, master culinary artistry, dynamic menu, and reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
